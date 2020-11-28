@@ -60,7 +60,32 @@ function draw() {
   ground.display();
   stand1.display();
   stand2.display();
-        
-
+  block1.display();
+  block2.display();
+  block3.display();
+  block4.display();
+  block5.display();
+  block6.display();
+  block7.display();
+  block8.display();
+  block9.display();
+  block10.display();
+  block11.display();
+  block12.display();
+  block13.display();
+  block14.display();
+  block15.display();
+  block16.display();
+  blocks1.display();
+  blocks2.display();
+  blocks3.display();
+  blocks4.display();
+  blocks5.display();
+  blocks6.display();
+  blocks7.display();
+  blocks8.display();
+  blocks9.display();
+  slingShot.display();
 }
+
 
